@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The last paper of advice from Ireland giving an account of the posture of affairs as they now stand in that kingdom, both with relation to the Irish forces, and the distressed Protestants in their hands : as also the happy proceedings and successes of the English Army there in this month of April, in a letter from Chester, dated April 19, 1690.</title>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A49643</idno><idno type="EEBO-CITATION">11839506</idno>
+  <idno type="VID">49791</idno>
+  <idno type="EEBO-PROQUEST">2240857931</idno>
+  
+            <idno type="STC">Wing L499</idno>
+            <idno type="STC">ESTC R14055</idno>
+            <idno type="OCLC">11839506</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A49643)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 49791)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 500:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The last paper of advice from Ireland giving an account of the posture of affairs as they now stand in that kingdom, both with relation to the Irish forces, and the distressed Protestants in their hands : as also the happy proceedings and successes of the English Army there in this month of April, in a letter from Chester, dated April 19, 1690.</title>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for D. Newman ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1690.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Broadside.</note>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Ireland --  History --  War of 1689-1691.</term>
+               <term type="genre_form">Broadsides --  England --  London --  17th century</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:49791:1"/>
+            <pb n="1" facs="tcp:49791:1"/>
+            <head>THE LAST Paper of Advice FROM IRELAND, GIVING AN ACCOUNT Of the Posture of AFFAIRS as they now stand in that Kingdom, both with relation to the <hi>Irish</hi> Forces, and the Distressed Protestants in their Hands; as also the happy Proceedings and Successes of the <hi>English</hi> Army there in this Month of <hi>April.</hi>
+            </head>
+            <head type="sub">In a Letter from <hi>Chester,</hi> Dated <hi>April</hi> 19. 1690.</head>
+            <p>VVE have heretofore had various Reports from <hi>Ireland,</hi> from which we could conclude no great matter of certainty, only in general we hoped things were not so well with the <hi>Irish</hi> as their Friends here industriously suggested; but this following Account that comes from a very good hand, doth now apparently clear the matter:</p>
+            <p>Mr. <hi>Johnson,</hi> a person of undoubt<g ref="char:EOLhyphen"/>ed reputation, who is lately arrived from <hi>Dublin,</hi> with other of his private concerns, relates, That beyond all their expectations, things are reduced to a great extremity and scarceness with them in that City; insomuch, that the very Soldiers are in want, and are commanded in great and numerous parties in the Countries round, and without any Ceremony seize upon all the Corn they find, in whose posses<g ref="char:EOLhyphen"/>sion soever it be, and bring it as di<g ref="char:EOLhyphen"/>rected to the Stores in <hi>Dublin,</hi> which must leave those poor Country peo<g ref="char:EOLhyphen"/>ple in very great straits; and this Corn is measured and proportioned out to the several Bakers they employ, and upon delivery, they immediately send out their Guards to those respective Bakehouses, lest the wretched Prote<g ref="char:EOLhyphen"/>stants, as they call them, and are in<g ref="char:EOLhyphen"/>deed
+<pb n="2" facs="tcp:49791:2"/>in a very deplorable condition, who dayly attend there, should get any part of it; for they are not suf<g ref="char:EOLhyphen"/>fered to have one morsel of it for Mo<g ref="char:EOLhyphen"/>ney, until the Soldiers have what is allowed them for their subsistence, which indeed is poor enough.</p>
+            <p>This scarcity hath occasioned many Complaints where with they have im<g ref="char:EOLhyphen"/>portuned the Government; where<g ref="char:EOLhyphen"/>upon they called a Councel, and therein debated how to provide a Re<g ref="char:EOLhyphen"/>medy for this growing necessity; and as commonly, their Counsels, if they can be any thing useful to the <hi>Irish,</hi> tend to some severity against the Pro<g ref="char:EOLhyphen"/>testants; It was by their ill-wishers vigo<g ref="char:EOLhyphen"/>rously proposed, that all the Protestant Women should be sent to the <hi>North,</hi> whereby they think not only to ease themselves, but create a new incum<g ref="char:EOLhyphen"/>brance and increase of the Protestants necessities there; a Mercy that they have not for the Men, for those they pre<g ref="char:EOLhyphen"/>serve to be sent to <hi>France,</hi> to indure all the hardships and severities that hath been designed and practised against the Bodies and Souls of Hereticks.</p>
+            <p>Beef that heretofore was sold for a Half-peny the pound, is now sold for Fourpence halfpeny, and all other flesh proportionable.</p>
+            <p>We have advice by some Sea-men lately come from <hi>Munster,</hi> That there was no Winter nor Spring Corn sowed last Season; which will surely seem cre<g ref="char:EOLhyphen"/>dible to those who know what vast quantities and superfluities there were in that Kingdom.</p>
+            <p>Those two worthy Divines, Dr. <hi>King,</hi> and Dr. <hi>Foy,</hi> who as you have been informed, were formerly Impri<g ref="char:EOLhyphen"/>soned, are released, and permitted again to Preach; and some of the Protestant Churches are <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ill allowed them, on purpose, as is well under<g ref="char:EOLhyphen"/>stood, to keep up the pretended in<g ref="char:EOLhyphen"/>difference, and Liberty of Conscience they have declared for Protestant and Papist: But the College that hath the considerable Revenue, and <hi>Christ-church,</hi> the place of greatest concourse, is kept for the Papists.</p>
+            <p>The chief Butcher of our Army in <hi>Ireland,</hi> who left the <hi>North</hi> the 15th Instant, says, That <hi>Charlemont</hi> is In<g ref="char:EOLhyphen"/>vested; and the Country people are summoned in, in great numbers to make the Trenches, and to work in the Mines. The same person brought a Letter to a Person of Quality in <hi>Chester,</hi> giving an account, That our Army are in a very forward condi<g ref="char:EOLhyphen"/>tion; That 'twas hoped to see him in his House in <hi>Dublin</hi> the first of <hi>July.</hi> It's probable our Army will take the Field the sixth of <hi>May.</hi> The Army having receiv'd their Pay, have sent over the said Butcher to buy them fat Oxen.</p>
+            <p>A Party of the Garison of <hi>Beltur<g ref="char:EOLhyphen"/>bet,</hi> being headed by an <hi>Inniskilling</hi>-Man, Marched in the Night to the Castle of <hi>Killishandra,</hi> and upon threatning to Blow them up, they immediately surrendred upon discre<g ref="char:EOLhyphen"/>tion, being in Number above Three Hundred, having had great store of Provisions.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>D. Newman,</hi> at the <hi>Kings-Arms</hi> in the <hi>Poultrey,</hi> MDCXC.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
